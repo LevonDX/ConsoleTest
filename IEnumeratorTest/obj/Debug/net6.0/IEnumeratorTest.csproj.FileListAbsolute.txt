@@ -1,0 +1,15 @@
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\bin\Debug\net6.0\IEnumeratorTest.exe
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\bin\Debug\net6.0\IEnumeratorTest.deps.json
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\bin\Debug\net6.0\IEnumeratorTest.runtimeconfig.json
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\bin\Debug\net6.0\IEnumeratorTest.dll
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\bin\Debug\net6.0\IEnumeratorTest.pdb
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.csproj.AssemblyReference.cache
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.AssemblyInfoInputs.cache
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.AssemblyInfo.cs
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.csproj.CoreCompileInputs.cache
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.dll
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\refint\IEnumeratorTest.dll
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.pdb
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\IEnumeratorTest.genruntimeconfig.cache
+C:\Users\lehovhan\source\repos\IEnumeratorTest\IEnumeratorTest\obj\Debug\net6.0\ref\IEnumeratorTest.dll
